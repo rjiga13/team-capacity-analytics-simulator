@@ -2,6 +2,10 @@
 
 A manager-facing analytics simulator for understanding team capacity, delivery risk, workload imbalance, SLA exposure, and operational bottlenecks using synthetic workflow data.
 
+## Screenshot
+
+![Dashboard overview](screenshots/dashboard-overview.png)
+
 ## Problem
 
 Managers often need to make staffing and prioritization decisions before they have perfect data. Backlog, volume shifts, priority mix, and individual capacity can create delivery risk that is hard to see from raw task lists.
